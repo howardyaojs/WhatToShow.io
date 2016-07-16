@@ -1,0 +1,168 @@
+{
+   "name":"What to Show","level": 1, "group":"10",
+   "children":[
+      {
+         "name":"Comparison","level": 2, "group":"1",
+         "children":[
+            {
+               "name":"Over Time","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Few Periods","level": 4, "group":"1",
+                     "children":[
+                        {
+                           "name":"Single or Few Categories","level": 5, "group":"1",
+                           "size":3812, "img":"img/Single_Cat.png"
+                        },
+                        {
+                           "name":"Many Categories","level": 5, "group":"1",
+                           "size":3812, "img":"img/Many_Cat.png"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Many Periods","level": 4, "group":"1",
+                     "children":[
+                        {
+                           "name":"Cyclical Data","level": 5, "group":"1",
+                           "size":3812, "img":"img/Cyc.png"
+                        },
+                        {
+                           "name":"Non-Cyclical Data","level": 5, "group":"1",
+                           "size":3812, "img":"img/Non_Cyc.png"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Among Items","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"One Variable per Item","level": 4, "group":"1",
+                     "children":[
+                        {
+                           "name":"Few Categories","level": 5, "group":"1",
+                           "children":[
+                                 {
+                                    "name":"Few Items","level": 6, "group":"1",
+                                    "size":3812, "img":"img/Few_Items.png"
+                                 },
+                                 {
+                                    "name":"Many Items","level": 6, "group":"1",
+                                    "size":3812, "img":"img/Many_Items.png"
+                                 }
+                           ]
+                        },
+                        {
+                           "name":"Many Categories","level": 5, "group":"1",
+                           "size":3812, "img":"img/Many_Cate.png"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Two Variables per Item","level": 4, "group":"1",
+                     "size":3812, "img":"img/Two_per_Item.png"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Distribution","level": 2, "group":"2",
+         "children":[
+            {
+               "name":"Single Variable","level": 3, "group":"2",
+               "children":[
+                  {
+                     "name":"Few Data Points","level": 4, "group":"2",
+                     "size":1983, "img":"img/Few_Points.png"
+                  },
+                  {
+                     "name":"Many Data points","level": 4, "group":"2",
+                     "size":2047, "img":"img/Many_Points.png"
+                  }
+               ]
+            },
+            {
+               "name":"Two Variables","level": 3, "group":"2",
+               "size":1041, "img":"img/Two_Var.png"
+            },
+            {
+               "name":"Three Variables","level": 3, "group":"2",
+               "size":5176, "img":"img/Three_Var.png"
+            }
+         ]
+      },
+      {
+         "name":"Composition","level": 2, "group":"3",
+         "children":[
+            {
+               "name":"Static","level": 3, "group":"3",
+               "size":1759,
+               "children":[
+                    {
+                        "name":"Simple Share of Total","level": 4, "group":"3",
+                        "size":2165, "img":"img/Component.png"
+                    },
+                    {
+                        "name":"Accumulation ot Subtraction to Total","level": 4, "group":"3",
+                        "size":2165, "img":"img/Total.png"
+                    },
+                    {
+                        "name":"Components of Components","level": 4, "group":"3",
+                        "size":2165, "img":"img/Simple_Total.png"
+                    } 
+               ]
+            },
+            {
+               "name":"Changing Over Time","level": 3, "group":"3",
+               "size":1759,
+               "children":[
+                    {
+                        "name":"Few Periods","level": 4, "group":"3",
+                        "size":2165,
+                        "children":[
+                           {
+                              "name":"Only Relative Differences Matter","level": 5, "group":"3",
+                              "size":2165, "img":"img/Few_Relative.png"
+                           },
+                           {
+                              "name":"Relative and Absolute Differences Matter","level": 5, "group":"3",
+                              "size":2165, "img":"img/Few_Absolute.png"
+                           }
+                        ]
+                    },
+                    {
+                        "name":"Many Periods","level": 4, "group":"3",
+                        "size":2165,
+                        "children":[
+                           {
+                              "name":"Only Relative Differences Matter","level": 5, "group":"3",
+                              "size":2165, "img":"img/Many_Relative.png"
+                           },
+                           {
+                              "name":"Relative and Absolute Differences Matter","level": 5, "group":"3",
+                              "size":2165, "img":"img/Many_Absolute.png"
+                           }
+                        ]
+                    }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Relationship","level": 2, "group":"4",
+         "children":[
+            {
+               "name":"Two Variables","level": 3, "group":"4",
+               "size":8833, "img":"img/Relation_Two.png"
+            },
+            {
+               "name":"Three Variables","level": 3, "group":"4",
+               "size":1732, "img":"img/Relation_Three.png"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,461 @@
+{
+   "name":"Information Security","level": 1, "group":"10",
+   "children":[
+      {
+         "name":"Processes","level": 2, "group":"1",
+         "children":[
+                     {
+               "name":"Acquisitions","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },               
+            {
+               "name":"Annual Report","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]  
+            },
+                         {
+               "name":"ATO","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+                         {
+               "name":"Desktop Support","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+             {
+               "name":"Digital Forensics","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },     
+            {
+               "name":"Forensics","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+                         {
+               "name":"Information Dissemination","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+              {
+               "name":"Security Incident Response","level": 3, "group":"1",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+            {
+               "name":"Vulnerability Mitigation","level": 3, "group":"1",
+                "children":[
+                    {"name":"International", "level":4,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]},
+                    {"name":"Local", "level":4,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]}
+                ]
+            },
+            {
+               "name":"Workstation Procurement","level": 3, "group":"1",
+                  "children":[
+                    {"name":"International", "level":4,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]},
+                    {"name":"Local", "level":4,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]}
+                ]
+            }
+         ]
+      },
+      {
+          "name":"Organizational Characteristics","level": 2, "group":"1",
+         "children":[
+      {
+         "name":"Organizational Structure","level": 3, "group":"2",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+      },
+      {
+         "name":"Governance","level": 3, "group":"3",
+         "children":[
+            {
+               "name":"Data & Reporting","level": 4, "group":"3",
+               "size":5176,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+            {
+               "name":"Leadership & Decision-making","level": 4, "group":"3",
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+            {
+               "name":"Policies & Directives","level": 4, "group":"3",
+               "size":1041,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            }
+
+         ]
+      },
+      {
+         "name":"People","level": 3, "group":"4",
+         "children":[
+            {
+               "name":"Professional Development","level": 4, "group":"4",
+               "size":8833,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            },
+            {
+               "name":"Recruitment & Retention","level": 4, "group":"4",
+               "size":1732,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+            }
+                ]
+      },
+                   {
+               "name":"Culture","level": 3, "group":"6",
+               "children":[
+                                     {
+                     "name":"Cross-collaboration","level": 4, "group":"6",
+                     "size":1336,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+                  },
+                  {
+                     "name":"Information Dissemination","level": 4, "group":"6",
+                     "size":1082,
+               "children":[
+                  {
+                     "name":"Strengths","level": 5, "group":"1",
+                     "size":743
+                  },
+                  {
+                     "name":"Weaknesses","level": 5, "group":"1",
+                     "size":3812
+                  },
+                  {
+                     "name":"Opportunities","level": 5, "group":"1",
+                     "size":6714
+                  },
+                  {
+                     "name":"Threats","level": 5, "group":"1",
+                     "size":743
+                  }
+               ]
+                  }
+
+               ]
+            }
+
+     ]
+    }
+   ]
+}
